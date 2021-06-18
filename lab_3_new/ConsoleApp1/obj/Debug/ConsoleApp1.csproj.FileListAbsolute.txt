@@ -1,0 +1,7 @@
+D:\projects\Development_and_analysis_of_algorithms_4_term\lab_3_new\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\projects\Development_and_analysis_of_algorithms_4_term\lab_3_new\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\projects\Development_and_analysis_of_algorithms_4_term\lab_3_new\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\projects\Development_and_analysis_of_algorithms_4_term\lab_3_new\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\projects\Development_and_analysis_of_algorithms_4_term\lab_3_new\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\projects\Development_and_analysis_of_algorithms_4_term\lab_3_new\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\projects\Development_and_analysis_of_algorithms_4_term\lab_3_new\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

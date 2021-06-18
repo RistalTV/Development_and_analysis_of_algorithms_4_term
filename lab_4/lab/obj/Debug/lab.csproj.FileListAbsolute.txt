@@ -1,0 +1,10 @@
+D:\projects\Development_and_analysis_of_algorithms_4_term\lab_4\lab\bin\Debug\lab.exe.config
+D:\projects\Development_and_analysis_of_algorithms_4_term\lab_4\lab\bin\Debug\lab.exe
+D:\projects\Development_and_analysis_of_algorithms_4_term\lab_4\lab\bin\Debug\lab.pdb
+D:\projects\Development_and_analysis_of_algorithms_4_term\lab_4\lab\obj\Debug\lab.csproj.AssemblyReference.cache
+D:\projects\Development_and_analysis_of_algorithms_4_term\lab_4\lab\obj\Debug\lab.Form1.resources
+D:\projects\Development_and_analysis_of_algorithms_4_term\lab_4\lab\obj\Debug\lab.Properties.Resources.resources
+D:\projects\Development_and_analysis_of_algorithms_4_term\lab_4\lab\obj\Debug\lab.csproj.GenerateResource.cache
+D:\projects\Development_and_analysis_of_algorithms_4_term\lab_4\lab\obj\Debug\lab.csproj.CoreCompileInputs.cache
+D:\projects\Development_and_analysis_of_algorithms_4_term\lab_4\lab\obj\Debug\lab.exe
+D:\projects\Development_and_analysis_of_algorithms_4_term\lab_4\lab\obj\Debug\lab.pdb

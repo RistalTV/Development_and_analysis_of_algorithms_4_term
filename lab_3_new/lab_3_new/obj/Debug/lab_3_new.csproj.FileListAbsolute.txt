@@ -1,0 +1,10 @@
+D:\projects\Development_and_analysis_of_algorithms_4_term\lab_3_new\lab_3_new\obj\Debug\lab_3_new.csproj.AssemblyReference.cache
+D:\projects\Development_and_analysis_of_algorithms_4_term\lab_3_new\lab_3_new\obj\Debug\lab_3_new.Form1.resources
+D:\projects\Development_and_analysis_of_algorithms_4_term\lab_3_new\lab_3_new\obj\Debug\lab_3_new.Properties.Resources.resources
+D:\projects\Development_and_analysis_of_algorithms_4_term\lab_3_new\lab_3_new\obj\Debug\lab_3_new.csproj.GenerateResource.cache
+D:\projects\Development_and_analysis_of_algorithms_4_term\lab_3_new\lab_3_new\obj\Debug\lab_3_new.csproj.CoreCompileInputs.cache
+D:\projects\Development_and_analysis_of_algorithms_4_term\lab_3_new\lab_3_new\bin\Debug\lab_3_new.exe.config
+D:\projects\Development_and_analysis_of_algorithms_4_term\lab_3_new\lab_3_new\bin\Debug\lab_3_new.exe
+D:\projects\Development_and_analysis_of_algorithms_4_term\lab_3_new\lab_3_new\bin\Debug\lab_3_new.pdb
+D:\projects\Development_and_analysis_of_algorithms_4_term\lab_3_new\lab_3_new\obj\Debug\lab_3_new.exe
+D:\projects\Development_and_analysis_of_algorithms_4_term\lab_3_new\lab_3_new\obj\Debug\lab_3_new.pdb

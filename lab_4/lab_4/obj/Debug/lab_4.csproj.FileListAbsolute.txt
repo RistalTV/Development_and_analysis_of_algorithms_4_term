@@ -1,0 +1,7 @@
+D:\projects\Development_and_analysis_of_algorithms_4_term\lab_4\lab_4\bin\Debug\lab_4.exe.config
+D:\projects\Development_and_analysis_of_algorithms_4_term\lab_4\lab_4\bin\Debug\lab_4.exe
+D:\projects\Development_and_analysis_of_algorithms_4_term\lab_4\lab_4\bin\Debug\lab_4.pdb
+D:\projects\Development_and_analysis_of_algorithms_4_term\lab_4\lab_4\obj\Debug\lab_4.csproj.AssemblyReference.cache
+D:\projects\Development_and_analysis_of_algorithms_4_term\lab_4\lab_4\obj\Debug\lab_4.csproj.CoreCompileInputs.cache
+D:\projects\Development_and_analysis_of_algorithms_4_term\lab_4\lab_4\obj\Debug\lab_4.exe
+D:\projects\Development_and_analysis_of_algorithms_4_term\lab_4\lab_4\obj\Debug\lab_4.pdb

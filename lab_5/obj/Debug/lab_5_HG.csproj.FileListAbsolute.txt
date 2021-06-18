@@ -1,0 +1,10 @@
+D:\projects\Development_and_analysis_of_algorithms_4_term\lab_5\bin\Debug\lab_5.exe.config
+D:\projects\Development_and_analysis_of_algorithms_4_term\lab_5\bin\Debug\lab_5.exe
+D:\projects\Development_and_analysis_of_algorithms_4_term\lab_5\bin\Debug\lab_5.pdb
+D:\projects\Development_and_analysis_of_algorithms_4_term\lab_5\obj\Debug\lab_5.Form1.resources
+D:\projects\Development_and_analysis_of_algorithms_4_term\lab_5\obj\Debug\lab_5.Properties.Resources.resources
+D:\projects\Development_and_analysis_of_algorithms_4_term\lab_5\obj\Debug\lab_5_HG.csproj.GenerateResource.cache
+D:\projects\Development_and_analysis_of_algorithms_4_term\lab_5\obj\Debug\lab_5_HG.csproj.CoreCompileInputs.cache
+D:\projects\Development_and_analysis_of_algorithms_4_term\lab_5\obj\Debug\lab_5.exe
+D:\projects\Development_and_analysis_of_algorithms_4_term\lab_5\obj\Debug\lab_5.pdb
+D:\projects\Development_and_analysis_of_algorithms_4_term\lab_5\obj\Debug\lab_5_HG.csproj.AssemblyReference.cache

@@ -1,0 +1,10 @@
+D:\projects\Development_and_analysis_of_algorithms_4_term\lab_5_FD\bin\Debug\lab_5_FD.exe.config
+D:\projects\Development_and_analysis_of_algorithms_4_term\lab_5_FD\bin\Debug\lab_5_FD.exe
+D:\projects\Development_and_analysis_of_algorithms_4_term\lab_5_FD\bin\Debug\lab_5_FD.pdb
+D:\projects\Development_and_analysis_of_algorithms_4_term\lab_5_FD\obj\Debug\lab_5_FD.Properties.Resources.resources
+D:\projects\Development_and_analysis_of_algorithms_4_term\lab_5_FD\obj\Debug\lab_5_FD.csproj.GenerateResource.cache
+D:\projects\Development_and_analysis_of_algorithms_4_term\lab_5_FD\obj\Debug\lab_5_FD.csproj.CoreCompileInputs.cache
+D:\projects\Development_and_analysis_of_algorithms_4_term\lab_5_FD\obj\Debug\lab_5_FD.exe
+D:\projects\Development_and_analysis_of_algorithms_4_term\lab_5_FD\obj\Debug\lab_5_FD.pdb
+D:\projects\Development_and_analysis_of_algorithms_4_term\lab_5_FD\obj\Debug\lab_5_FD.csproj.AssemblyReference.cache
+D:\projects\Development_and_analysis_of_algorithms_4_term\lab_5_FD\obj\Debug\lab_5_FD.MainForm.resources
